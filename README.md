@@ -2,7 +2,7 @@
 
 
 ### A 29 years old tech guy living in Manaus/Brazil.
-#### Currently working as a Client Support Analyst, I'm here to post my projects and collaborate with the *community*. 
+#### Currently working as a System Integration Engineer, I'm here to post my projects and collaborate with the *community*. 
 Nice to meet you all!
 Please find below some useful links 😄<br>
 
