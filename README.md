@@ -1,10 +1,15 @@
-## _Hello everyone 👽 I'm Abe!_
+## _Hello everyone 👽 I'm Abe!_ He/His/Ele/Dele
 
 
 ### A 29 years old tech guy living in Manaus/Brazil.
 #### Currently working as a System Integration Engineer, I'm here to post my projects and collaborate with the *community*. 
 Nice to meet you all!
-Please find below some useful links 😄<br>
+Please find below some useful links 😄<be>
+
+🇧🇷 native language   
+🇺🇸 C2/fluent   
+🇪🇸 B2   
+🇯🇵 N5
 
 <div>
 <a href="https://www.instagram.com/meloabraaoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
